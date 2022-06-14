@@ -230,6 +230,7 @@ body{
 .project_name {
   text-transform: uppercase;
   color: var(--primary-color);
+  transition: .6s;
   
 }
 
