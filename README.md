@@ -1,2 +1,2 @@
-https://tat969.github.io/rsschool-cv-html/cv
-https://tat969.github.io/rsschool-cv-html/
+#https://tat969.github.io/rsschool-cv/cv
+#https://tat969.github.io/rsschool-cv/
