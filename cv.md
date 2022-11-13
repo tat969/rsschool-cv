@@ -37,7 +37,7 @@ Not yet
 
  - CS50 video course
  - HTML, CSS and JS courses by Code Basics
- - Stage 0 in RS School(in process..)
+ - Stage 0 in RS School
 
 ## English level
 
